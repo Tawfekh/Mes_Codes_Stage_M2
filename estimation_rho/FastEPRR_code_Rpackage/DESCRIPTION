@@ -1,0 +1,11 @@
+Package: FastEPRR
+Type: Package
+Title: FastEPRR: a Fast Estimator for the Population Recombination Rate
+Version: 1.0
+Date: 2015-05-01
+Author: Feng Gao, Haipeng Li
+Maintainer: Feng Gao <gaofeng@picb.ac.cn>, Haipeng Li <lihaipeng@picb.ac.cn>
+Description: FastEPRR, an R package for estimating the population recombination rate with the assumption of constant recombination rate over the region. 
+License: GPL
+Depends: R (>= 2.14.0)
+Packaged: 2016-01-31 14:09:57 UTC; GF

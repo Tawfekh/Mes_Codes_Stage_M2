@@ -1,0 +1,15 @@
+
+VCFtools - 0.1.15
+(C) Adam Auton and Anthony Marcketta 2009
+
+Parameters as interpreted:
+	--vcf chr5_sample_190_of_allSNP_chr5_1.vcf
+	--keep cult_c.txt
+	--out ./cult_centerVCF/center_chr5
+	--recode
+
+Keeping individuals in 'keep' list
+After filtering, kept 88 out of 190 Individuals
+Outputting VCF file...
+After filtering, kept 2558102 out of a possible 2558102 Sites
+Run Time = 893.00 seconds
